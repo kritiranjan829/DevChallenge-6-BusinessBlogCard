@@ -3,7 +3,7 @@ Business Blog Card 💼
 
 This is a simple responsive business blog card component built with **HTML** and **CSS** as part of the [devChallenges.io](https://devchallenges.io) Frontend Developer Challenges.
 
-Live Demo: 
+Live Demo: https://dev-challenge-6-business-blog-card.vercel.app/
 
 📌 Features
 
